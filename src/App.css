@@ -14,6 +14,20 @@
   color: white;
   border-color: white;
 }
+.btReset{
+  background: black;
+  border:1px solid black;
+  color: white;
+  text-transform: uppercase;
+  border: 0px;
+  padding: 0.7em 0.7em;
+  font-family: Roboto, sans-serif;
+}
+.btReset:hover{
+  color: black;
+  background: white;
+  border:1px solid black;
+}
 .App-logo {
   width: 10%;
   max-width: 200px;
